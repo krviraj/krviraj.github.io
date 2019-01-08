@@ -1,0 +1,16 @@
+ 
+  body {
+    background-color: lightgray;
+  }
+
+  hr {
+    background-color: lightgray;
+    border-top: 5px dotted;
+    border-bottom-color: lightgray;
+    color:lightseagreen;
+    width: 4%;
+  }
+
+  h1,h2,h3,h4 {
+      color: #66BFBF;
+  }

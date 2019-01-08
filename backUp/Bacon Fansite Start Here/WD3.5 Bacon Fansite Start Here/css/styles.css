@@ -1,0 +1,21 @@
+h1 {
+    font-size: 20px;
+    color: red;
+}
+
+/* img {
+    background-color: lawngreen;
+} */
+
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+.circular {
+    border-radius: 100%;
+}
